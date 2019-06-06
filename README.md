@@ -1,2 +1,0 @@
-# tgdbanners
-tgd
